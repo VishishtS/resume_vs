@@ -1,0 +1,135 @@
+<html>
+<head>
+<title>Web Resume</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+.button{
+     	padding: 16px 32px;
+	text-align: center;
+    	border: none;
+	display: inline-block;
+	font-size: 30px;
+	font-family:Algerian;
+	margin: 4px 4px;
+	transition-duration: 0.4s;
+	cursor: pointer;
+}
+.button1{
+	border-radius:17px;
+	background-color:#ffffff;
+	color:#001a33;}
+.button1:hover{
+	border-radius:17px;
+	background-color:#001a33;
+	color:#ffffff;
+}
+.button2{
+	border-radius:17px;
+	background-color:#ffffff;
+	color:#001a33;
+}
+.button2:hover{
+	border-radius:17px;
+	background-color:#001a33;
+	color:#ffffff;
+}
+.button3{
+	border-radius:17px;
+	background-color:#ffffff;
+	color:#001a33;
+}
+.button3:hover{
+	border-radius:17px;
+	background-color:#001a33;
+	color:#ffffff;
+}
+.button4{
+	border-radius:17px;
+	background-color:#ffffff;
+	color:#001a33;
+}
+.button4:hover{
+	border-radius:17px;
+	background-color:#001a33;
+	color:#ffffff;
+}
+.button5{
+	border-radius:17px;
+	background-color:#ffffff;
+	color:#001a33;
+}
+.button5:hover{
+	border-radius:17px;
+	background-color:#001a33;
+	color:#ffffff;
+}
+h1 { color: #ffffff;
+     font-family: vtks giz;
+     font-size: 300%; }
+h2{
+	color: #001a33;
+	font-family: Algerian;
+	font size: 1500%;}
+.left {
+	border-radius:25px;
+	float:left;
+	margin: 100px;
+	padding: 20px;
+	max-width: 2000px;
+	border: 1px solid black;
+	background-color:#ffffff;
+	font-family:Algerian;}
+.right {
+	border-radius:25px;
+	float:right;
+	margin: 100px;
+	padding: 20px;
+	max-width: 2000px;
+	border: 1px solid black;
+	background-color:#ffffff;
+	font-family:Algerian;}
+</style>
+</head>
+<body style="background-color:#001a33">
+<br>
+<center><h1 class="capitalize"><b><u> Its not who I am, its what i do that Defines me!</u></b><h1></center>
+<center><img src ="vishisht.jpg" border="3" alt="Its me!" style="width:300px;height:400px;"></center><br><hr size=1 width=80% color="white">
+<br><br><center>
+<button class="button button1">About me</button>
+<button class="button button2">Skills</button>
+<button class="button button3">Experiences</button>
+<button class="button button4">Objectives</button>
+<button class="button button4">Contact me</button><br></center>
+<div class="left">
+  <h2>About Me</h2>
+  <p>Hey, there my name is vishisht sahai and i am from varanasi</p>
+<p>currently i am pursuing my engineering from VIT, vellore in the mechanical engineering</p>
+<center><a href="http://www.dpsvaranasi.com/"><img src="dps.jpg" width=100px height=100px></a>
+<a href="http://www.vit.ac.in/"><img src="vit_logo.png" width=200px height=100px></a></center></div><br>
+<div class="right">
+<h2>Skills</h2>
+<p><ul>
+<li>Skill 1</li.
+<li>jo</li>
+<li>hjk</li>
+<li>jik</li>
+<li>jik</li>
+<li>haha</li>
+<li>kuch</li>
+<li>toh</li>
+<li>bhi</li>
+</ul></p></div>
+<div class="left">
+<h2>Experience</h2>
+<p>Currently studying mechanical engineering in 1st year at VIT</p>
+<p>Stuctural Deprtment at Assaling falcons</p>
+<P>Core Commitee member at TAG Club(Management)</p>
+<center><a href="https://www.facebook.com/AssailingFalcons/"><img src="falcons.jpg" alt="Assailing Falcons" width=200px height=100px></a>
+<a href="https://www.facebook.com/tagvitu/"><img src="tag.jpg" alt="TAG Club" width=200px height=100px></a></center></div><br>
+<div class="right">
+<h2>Objectives</h2>
+<p>i have vdbanaa hbbjaai hihh idhadakdnasdadaidnajbad</p></div><br><br><br><br>
+<div class="left">
+<h2>Contact Me</h2></div>
+</body>
+</html>
